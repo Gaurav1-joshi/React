@@ -1,0 +1,15 @@
+.alert-danger_text {
+    color: #a94442;
+    font-size: 14px;
+}
+
+.alert-danger, .alert-success {
+    background-color: #f2dede;
+    border: 1px solid #ebcccc;
+    border-radius: 0.25rem;
+    -webkit-border-radius: 0.25rem;
+    color: #a94442;
+    font-size: 14px;
+    padding: 0.3rem 0.7rem;
+    width: 100%;
+}

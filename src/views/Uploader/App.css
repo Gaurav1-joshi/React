@@ -1,0 +1,179 @@
+/* .drag{
+  width:100%;
+  border: dotted 2px lightslategray;
+  height:200px;
+  background-color: rgb(240, 243, 245);
+  }
+  h1{
+    margin-top:50px!important;
+    font-size: 1.6rem!important;
+  }
+
+  select.form-control{ display: inline-block; line-height: 1.5em; padding-right: 50px; margin: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; -webkit-appearance: none; -moz-appearance: none; background: url(./../../assets/img/brand/down-arrow.svg); background-position: calc(100% - 15px) 12px; background-size: 20px; background-repeat: no-repeat; background-color: white !important; color: black !important }
+  
+
+  #exampleSelect
+  {
+  background-color: rgb(240, 243, 245);
+  width: 150px;
+  margin-left: -40px;
+  }
+  .red-hover,.fa-trash{
+    font-size:22px;
+    color:red;
+    padding:10px;
+    text-align: center;
+    margin-top: -10px;
+  } 
+  Table{
+  margin-top:20px;
+  }
+  
+  a.tbactionbtn{color:#2a3134;}
+  .table tr:hover td a.tbactionbtn{color:#2a3134;}
+  .tbactionbtn {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  border: 0 none;
+  color:rgba(0, 0, 0, 0.75);
+  margin:0px;
+  padding: 0;
+  display: inline-block;
+  line-height: 32px;
+  cursor: pointer;width: 30px; height: 30px; text-align: center;
+  border-radius: 50%; -webkit-border-radius: 50%;
+  }
+  .tbbtn {
+  font-size: 16px;
+  width: auto;
+  height: auto;
+  margin-right: 10px;
+  }
+  .tbactionbtn:last-child{margin-right: 0px !important;}
+
+.alert-danger, .alert-success {
+  background-color: #f2dede;
+  border: 1px solid #ebcccc;
+  border-radius: 0.25rem;
+  -webkit-border-radius: 0.25rem;
+  color: #a94442;
+  font-size: 14px;
+  padding: 0.3rem 0.7rem;
+  width: 100%;
+}
+
+
+.spinner
+{
+  margin-left: -40px;
+  position: absolute;
+  margin-top:4px;
+  text-align: left;
+}
+.fa-check{
+font-size: 20px;
+color:seagreen;
+position:absolute;
+margin-top: 1px;
+}
+.fa-check:before {
+  content: "\f00c";
+  margin-left:-40px;  
+}
+.fa-window-close{
+  font-size: 20px;
+  color:red;
+  position:absolute;
+  margin-left:-20px;
+  margin-top: 1px;
+}
+.fa-times-rectangle:before, .fa-window-close:before {
+  content: "\f2d3";
+  margin-left: -20px;
+}
+
+
+[data-tip] {
+  position:relative;
+  
+  }
+  [data-tip]:before {
+  content:'';
+  display:none;
+  content:'';
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid #1a1a1a;	
+  position:absolute;
+  top:30px;
+  left:35px;
+  z-index:8;
+  font-size:0;
+  line-height:0;
+  width:0;
+  height:0;
+  }
+  [data-tip]:after {
+  display:none;
+  content:attr(data-tip);
+  position:absolute;
+  top:35px;
+  left:0px;
+  padding:5px 8px;
+  background:#1a1a1a;
+  color:#fff;
+  z-index:9;
+  font-size: 0.75em;
+  height:30px;
+  line-height:18px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  white-space:nowrap;
+  word-wrap:normal;
+  }
+  [data-tip]:hover:before,
+  [data-tip]:hover:after {
+  display:block;
+  }
+  
+  .table-custom tr th, .table thead {
+    background: #20a8d8;
+    color: #fff;
+    padding: 6px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.descriptionField .MuiFormControl-root {
+  width: 100%;
+}
+
+.descriptionField {
+  display: block;
+  width: 100%;
+}
+
+.MuiInputBase-multiline {
+  bottom: 16px;
+  padding: 6px 0 7px;
+}
+
+.filename {
+  display: inline-block;
+  margin-top: 4px;
+  word-wrap: break-word;
+  width: 250px;
+}
+
+
+.textArea{
+  border:solid 1px red;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  background-color: transparent;
+}
+#hover-content {
+  display:none; */

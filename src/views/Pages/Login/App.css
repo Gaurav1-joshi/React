@@ -1,0 +1,54 @@
+/* .alert-danger_text {
+    color: #a94442;
+    font-size: 14px;
+}
+
+.alert-danger, .alert-success {
+    background-color: #f2dede;
+    border: 1px solid #ebcccc;
+    border-radius: 0.25rem;
+    -webkit-border-radius: 0.25rem;
+    color: #a94442;
+    font-size: 14px;
+    padding: 0.3rem 0.7rem;
+    width: 100%;
+}
+
+.textSet{
+    font-size: 15px;
+    padding-bottom: 15px;
+    }
+
+.flex-row {
+    height: 100px;
+}
+
+.p-4{
+    height: 360px;
+    margin-top: 70px;
+    margin-left: 40px;
+    max-width: 561px;
+    margin: 70px auto;
+}
+
+.h1 {
+    margin-top: -20px;
+    text-align: center;
+}
+
+
+.px-4 {
+    width: 470px;
+}
+
+.loginButton{
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.5;
+    } */
+    .app-loginfooter{
+        color: #505050;
+        font-size: 14px;
+    }
